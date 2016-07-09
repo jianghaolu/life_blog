@@ -1,28 +1,16 @@
 #
 # Blog Settings
 #
-author: Phil Haack
-description: You've been Haacked and you like it
-url: http://haacked.com
-title: You've Been Haacked
-subtitle: ...and you like it
-gravatar_url: https://2.gravatar.com/avatar/cdf546b601bf29a7eb4ca777544d11cd
-subscribe_rss: http://feeds.haacked.com/haacked
+author: Jianghao Lu
+description: Jianghao's Cosmos
+url: http://blog.jianghaolu.com
+title: Jianghao's Cosmos
+subtitle: 西雅图的小宇宙
+gravatar_url: https://avatars2.githubusercontent.com/u/2320445
 
 # Github repositories
-github_user: haacked
-github_repo_url: https://github.com/Haacked/haacked.com/
-
-# Twitter
-twitter_user: haacked
-twitter_tweet_button: true
-
-# Disqus Comments
-disqus_short_name: haacked
-disqus_show_comment_count: true
-
-# Google Analytics
-google_analytics_tracking_id: UA-177588-1
+github_user: jianghaolu
+github_repo_url: https://github.com/jianghaolu/life_blog/
 
 kramdown:
   hard_wrap: false
